@@ -53,6 +53,8 @@ The business generated over 353 million in revenue with nearly 8,000 items sold,
   2. Coca-Cola leads the product line in revenue, followed closely by Five Alive and Eva Water. Focusing on increasing Fanta and Sprite sales could balance the product portfolio and boost overall revenue.
   3. A small group of top customers (especially Vaughn, Harlon) account for a large portion of the revenue. Strategic focus should be placed on retaining high performers while nurturing mid and low-tier customers for growth.
 
+<img width="1120" height="883" alt="image020" src="https://github.com/user-attachments/assets/2379c7f0-5dcc-41e1-9264-47fc08745cdb" />
+
 
 ### Recommendations
 
@@ -79,7 +81,6 @@ During this analysis, I encountered excel misinterpretation of function. the dat
  💻
 
 |Heading1|Heading2|
-|........|........|
+|--------|--------|
 |Content|Content|
 |Python|SQL|
- 
